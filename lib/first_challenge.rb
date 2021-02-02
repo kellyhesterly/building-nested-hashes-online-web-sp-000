@@ -1,2 +1,2 @@
-def first_challenge
+def first_challenge(keys)
 end
