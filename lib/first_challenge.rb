@@ -1,2 +1,2 @@
-def first_challenge(keys)
+def first_challenge(epic_tragedy)
 end
